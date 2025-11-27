@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FETAB3844 – Portfolio</title>
+<style>
+body {
+    background: #111;
+    color: #ffb400;
+    font-family: Arial;
+    text-align: center;
+    padding: 40px;
+}
+a.button {
+    display: inline-block;
+    padding: 15px 25px;
+    margin: 10px;
+    background: #ff9900;
+    color: #000;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+}
+a.button:hover { background: #ffaa33; }
+</style>
+</head>
+
+<body>
+
+<h1>FETAB3844 – Portfolio</h1>
+<h3>Choose your language / Válassz nyelvet / Choisissez la langue</h3>
+
+<a class="button" href="portfolio_en.pdf">English Portfolio (PDF)</a>
+<a class="button" href="portfolio_fr.pdf">Français Portfolio (PDF)</a>
+<a class="button" href="portfolio_hu.pdf">Magyar Portfólió (PDF)</a>
+
+<h3>Image Gallery</h3>
+<a class="button" href="gallery.html">Open Gallery</a>
+
+</body>
+</html>
